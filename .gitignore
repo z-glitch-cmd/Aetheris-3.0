@@ -1,0 +1,11 @@
+stock_raw/
+stock_extracted/
+port_raw/
+port_extracted/
+output/*.zip
+output/*.img
+*.tar
+*.tar.md5
+*.lz4
+*.bin
+*.img
