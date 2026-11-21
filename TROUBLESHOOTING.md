@@ -1,6 +1,6 @@
 # Troubleshooting & FAQ (`SM-P619`)
 
-Common issues and quick fixes when building or flashing the One UI 9 LTE port (**AetherisOS 9.0**).
+Common issues and quick fixes when building or flashing the One UI 7 LTE port (**AetherisOS 7.0**).
 
 ---
 
