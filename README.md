@@ -50,10 +50,10 @@ sudo apt update && sudo apt install -y git lz4 android-sdk-libsparse-utils andro
 
 ### 2. Download This Project
 ```bash
-git clone https://github.com
+git clone https://github.com/z-glitch-cmd/Aetheris-3.0
 ```
 ```bash
-cd Aetheris-7.0
+cd Aetheris-3.0
 ```
 > *(Note: If you see a `.gitignore` file in the folder, just ignore it—it keeps Git from uploading giant firmware files.)*
 
@@ -63,7 +63,7 @@ mkdir -p stock_raw stock_extracted port_raw port_extracted output
 ```
 
 ### 4. Put Your Firmware Files in the Folders
-* **On Linux:** Put `AP_*.tar.md5` and `CP_*.tar.md5` inside `Aetheris-7.0/stock_raw/`, and your `SM-P613` One UI 7 ROM `.zip` inside `Aetheris-7.0/port_raw/`.
+* **On Linux:** Put `AP_*.tar.md5` and `CP_*.tar.md5` inside `Aetheris-3.0/stock_raw/`, and your `SM-P613` One UI 7 ROM `.zip` inside `Aetheris-3.0/port_raw/`.
 * **On Windows (WSL2):** Run these three commands to copy them from your Windows `Downloads` folder:
   ```bash
   cp /mnt/c/Users/*/Downloads/AP_*.tar.md5 stock_raw/
